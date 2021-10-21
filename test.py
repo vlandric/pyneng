@@ -1,0 +1,1 @@
+print('test venv i git zajedno')
