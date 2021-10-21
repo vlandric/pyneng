@@ -1,5 +1,5 @@
 # Passing arguments to Access_Template script
-
+# argv is a list and represented as strings
 from sys import argv
 
 
