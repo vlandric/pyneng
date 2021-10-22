@@ -1,5 +1,5 @@
-# output looks needs to  like this
 # only dictinary is already typed
+# output looks needs to  like this
 # Enter name of device: r1
 # {"location": "21 New Globe Walk", "vendor": "Cisco", "model": "4451", "ios": "15.4", "ip": "10.255.0.1"}
 
