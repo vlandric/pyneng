@@ -20,4 +20,4 @@ def add_user_to_file(user, users_filename='users.txt'):
         f.write(f'{user},{password}\n')
 
 username = input('enter username: ')
-add_user_to_file("vlado")
+add_user_to_file(username)
